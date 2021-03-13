@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+}
+
+@media screen and (max-width:600px){
+    div > p {
+        background-color: green;
+        font-size: 25px;
+    } 
+
+}
+
+@media screen and (max-width:990px) {
+    div > p {
+        background-color: green;
+        font-size: 25px;
+    } 
+}
+
+@media screen and (max-width:1350px){
+    div > p {
+        background-color: green;
+        font-size: 25px;
+    } 
+}
